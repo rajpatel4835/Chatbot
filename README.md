@@ -1,6 +1,6 @@
 # Sofia - Virtual Assistant for Rajkiya Engineering College Kannauj
 
-Sofia is a voice-enabled chatbot designed to assist users with inquiries about Rajkiya Engineering College Kannauj. The chatbot utilizes BERT-based question-answering techniques to provide relevant responses. 
+Sofia is a voice-enabled chatbot designed to assist users with inquiries about Rajkiya Engineering College Kannauj. The chatbot utilizes 🤗Hugging Face's Transformers library and BERT-based question-answering techniques to provide relevant responses. 
 
 ## Features
 - **Voice Interaction**: Users can interact with the chatbot using voice commands.
